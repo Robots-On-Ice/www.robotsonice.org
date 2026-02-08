@@ -4,4 +4,4 @@ title: Robots On Ice 2026
 ---
 
 {% capture source %}{% include_relative _posts/2026-01-29-robots-on-ice-2026.md %}{% endcapture %}
-{{ source | split: "---" | last }}
+{{ source | split: "---" | last | markdownify }}
