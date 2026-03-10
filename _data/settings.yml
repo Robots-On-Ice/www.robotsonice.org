@@ -11,7 +11,7 @@ menu:
 # - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 # - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'Support the Event!', folder: 'pages', file: 'sponsor.html'}
-- {name: 'Bring a Robot!', folder: 'pages', file: 'call-for-activities.html'}
+# - {name: 'Bring a Robot!', folder: 'pages', file: 'call-for-activities.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
