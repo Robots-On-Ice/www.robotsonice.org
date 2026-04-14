@@ -17,6 +17,7 @@ sass:
 title:		           "Robots On Ice"
 description:	       "A home for Robots on Ice"
 author:              "Silicon Valley Ice Skating Association"
+ticket_link:         "https://www.eventbrite.com/e/robots-on-ice-2026-tickets-1984681716440?aff=oddtdtcreator&keep_tld=true"
 
 collections:
   archive_2021:
